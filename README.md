@@ -1,2 +1,2 @@
-Here are findings and analysis of these questions through Power Bi 
-dataset used is sample superstore
+Here are findings and Analysis of questions through Power Bi 
+The dataset used is a sample superstore
